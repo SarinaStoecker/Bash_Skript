@@ -1,2 +1,4 @@
 # Mein erstes Git Repositorium
-2022-09-12
+
+- *Autorin*: Sarina **Stöcker**
+- 2022-09-12
