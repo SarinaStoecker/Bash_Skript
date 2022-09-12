@@ -1,3 +1,6 @@
+
+Hier sind meine Bash-skripte
+
 # Mein erstes Git Repositorium
 
 - *Autorin*: Sarina **Stöcker**
